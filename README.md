@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=INCONNU+XD+V2;VERSION+2.0.0;BY+INCONNU+BOY+TECH" alt="Typing SVG" />
+    <img src="https://demolab.com" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ Click the button below to fork the repository and get your own copy:
 ---
 ## ⌛ WHATSAPP CHANNEL SUPPORT 
 
-[![INCONNU BOY TECH](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbC6It7K0IBkQwaKYd2J)
+[![AKARI MD SUPPORT](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbC6It7K0IBkQwaKYd2J)
 
 ---
 
@@ -87,14 +87,10 @@ Click the button below to fork the repository and get your own copy:
 ### <br>    DEPLOY_RENDER 
 
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+## ⚡ DEPLOY ON WORKFLOW ⚡
 
-
-
-⚡ DEPLOY ON WORKFLOW ⚡
-
-```
-
-   name: Node.js CI
+```yaml
+name: Node.js CI
 
 on:
   push:
@@ -120,19 +116,18 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: \${{ matrix.node-version }}
 
     - name: Install dependencies
       run: npm install
 
     - name: Start application
       run: npm start 
-        
 ```
 
 ## ❤️ Credits
-[![GitHub - INCONNU-BOY](https://img.shields.io/badge/GitHub-INCONNU--BOY-181717?style=for-the-badge&logo=github)](https://github.com/INCONNU-BOY)
+[![GitHub - AKARI BOT TECH](https://shields.io)](https://github.com/)
 
 ---
 
-![MADE BY INCONNU BOY](https://img.shields.io/badge/MADE%20BY-INCONNU%20BOY-blueviolet?style=for-the-badge&logo=markdown)
+![MADE BY AKARI BOT TECH](https://fr.pinterest.com/pin/858569116506077598)
