@@ -1,11 +1,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://demolab.com" alt="Typing SVG" />
+    <img src="https://fr.pinterest.com/pin/858569116506077598" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/e1k73u.jpg" width="800"/>
+  <img src="![Uploading WhatsApp Image 2026-06-21 at 20.11.30.jpeg…]()
+" width="800"/>
 </p>
 ---
 
